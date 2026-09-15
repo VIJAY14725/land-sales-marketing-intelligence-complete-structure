@@ -1,0 +1,1 @@
+# ComparableSale and CompetingListing models

@@ -1,0 +1,1 @@
+# Daily report snapshot model

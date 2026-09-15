@@ -1,0 +1,1 @@
+# External provider adapter interface
